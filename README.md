@@ -1,6 +1,6 @@
 # Supported tags and respective Dockerfile links
 
-* `8.7`, `latest` [Dockerfile](https://github.com/paolodenti/docker-jessie-jdk8-openvpn24/blob/master/Dockerfile)
+* `8.7`, `latest` [Dockerfile](https://github.com/paolodenti/jessie-jdk8-openvpn24/blob/master/Dockerfile)
 
 # Description
 
